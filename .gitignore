@@ -1,0 +1,30 @@
+# 系统杂物
+.DS_Store
+.AppleDouble
+Thumbs.db
+
+# 外部素材库（别人的开源内容 / 本机部署产物，不进本仓库）
+agency-agents-zh/
+agency-deploy/
+chonqiu-logo/
+tradehunter-docs/
+github-feng/
+.opencode/
+.codex/
+.dsh/
+
+# 密钥与凭据（双保险：永远不推）
+*.pem
+*.key
+id_*
+.env
+.env.*
+*credentials*
+*token*
+*secret*
+
+# 临时与日志
+*.log
+tmp/
+.cache/
+node_modules/
