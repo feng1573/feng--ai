@@ -37,14 +37,14 @@
 
 - 工作区：`/Users/liaoxianfeng/Documents/dph`（不是 git 仓库；各项目目录各自管理）
 - git 2.50.1 已装；SSH 密钥 `~/.ssh/id_ed25519` 已存在；`gh` CLI 未装（按需再装）
-- git 全局 user.name / user.email：待配置 → ____________________
-- GitHub 用户名 / 开源仓库名：待定 → ____________________
+- git 身份：user.name=feng1573 · user.email=262018439+feng1573@users.noreply.github.com ✅
+- SSH 密钥已加入 GitHub；远程仓库 `git@github.com:feng1573/feng--ai.git`（main，已关联推送）✅
 - 已装专家 skill：270+，位于 `.dsh/skills/`；人生决策指南、磁盘清理为流程型 skill
 - 本机素材库：`agency-agents-zh/`（277 位专家源）、`agency-deploy/`（部署手册）
 
 ## 6. 当前状态速记（每次大进展后更新这一节）
 
 - [x] 战情室页面 `dashboard.html` 已交付（静态快照）
-- [ ] 完成 GitHub 准备（账号、公钥、建仓、git 身份）
+- [x] GitHub 准备完成（公钥、git 身份、建仓关联、首次推送 feng--ai@main）
 - [ ] finance-studio：定分析框架 + 样稿风格
 - [ ] lead-agent：方法论访谈第一轮
